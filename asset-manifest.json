@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-project/static/css/main.bb65cc5d.css",
-    "main.js": "/portfolio-project/static/js/main.a95a04fe.js",
+    "main.css": "/portfolio-project/static/css/main.86d7f8c8.css",
+    "main.js": "/portfolio-project/static/js/main.4c8f4c3b.js",
     "static/js/787.071eb048.chunk.js": "/portfolio-project/static/js/787.071eb048.chunk.js",
     "static/media/logo-subtitle.png": "/portfolio-project/static/media/logo-subtitle.3f716b530144a02586df.png",
     "static/media/Airflow.svg": "/portfolio-project/static/media/Airflow.2c808a9ac27a6612e9858a4983ea3403.svg",
@@ -9,12 +9,12 @@
     "index.html": "/portfolio-project/index.html",
     "static/media/Databricks.svg": "/portfolio-project/static/media/Databricks.b3568265171ee466486eea2695bc28e0.svg",
     "static/media/Powerbi.svg": "/portfolio-project/static/media/Powerbi.cf3f29fbcd728ab009b16c56e8f5d1c4.svg",
-    "main.bb65cc5d.css.map": "/portfolio-project/static/css/main.bb65cc5d.css.map",
-    "main.a95a04fe.js.map": "/portfolio-project/static/js/main.a95a04fe.js.map",
+    "main.86d7f8c8.css.map": "/portfolio-project/static/css/main.86d7f8c8.css.map",
+    "main.4c8f4c3b.js.map": "/portfolio-project/static/js/main.4c8f4c3b.js.map",
     "787.071eb048.chunk.js.map": "/portfolio-project/static/js/787.071eb048.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb65cc5d.css",
-    "static/js/main.a95a04fe.js"
+    "static/css/main.86d7f8c8.css",
+    "static/js/main.4c8f4c3b.js"
   ]
 }
